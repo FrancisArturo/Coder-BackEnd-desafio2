@@ -47,6 +47,11 @@ const updateProductById = async (id, updateObj) => {
 }
 
 
+
+
+//llamadas a las funciones con los metodos de la clase ProductManager
+
+
 //agregarProductos();
 
 
